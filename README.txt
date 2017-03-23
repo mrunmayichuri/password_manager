@@ -10,8 +10,7 @@ Steps to execute the program
    eg. OnionRing,123456
 6. Enter the choice:
     a. Read Password - Enter a username you already saved in the DB
-    b. Write & Save password - Enter a username and
-    select the option to enter your own password or generate random password by application (Minimum 9 characters)
+    b. Write & Save password - Enter a username and select the option to enter your own password or generate random password          by application (Minimum 9 characters)
     c. Show DB - To view the encrypted contents of the DB.
     d. Exit
 
