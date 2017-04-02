@@ -206,7 +206,8 @@ class PasswordMan(object):
         else:
             password = pword
         return password
-        #length = len(pword)
+        #~~Without using passwordmeter lib~~#
+	#length = len(pword)
         #if length < 8:
         #   password = raw_input("Password length should be greater than or equal to 8. Please enter a new password: ")
         #else:
